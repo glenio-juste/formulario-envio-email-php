@@ -6,4 +6,4 @@ Para executar o projeto, abrir o prompt de comando e entrar na pasta do projeto 
 
 #### php -S localhost:8080.
 
-Abrir o navegador e digitar: ####localhost:8080
+Abrir o navegador e digitar: localhost:8080
